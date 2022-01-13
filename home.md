@@ -12,16 +12,16 @@
 
 ## Chapters
 
-- [4 Integration](04-integration/home.md)
-- [5 Scope](05-scope/home.md)
-- [6 Schedule](06-schedule/home.md)
-- [7 Cost](07-cost/home.md)
-- [8 Quality](08-quality/home.md)
-- [9 Resource](09-resource/home.md)
-- [10 Communications](10-communications/home.md)
-- [11 Risk](11-risk/home.md)
-- [12 Procurement](12-procurement/home.md)
-- [13 Stakeholder](13-stakeholder/home.md)
+- [4 Integration](04-integration/04-integration.md)
+- [5 Scope](05-scope/05-scope.md)
+- [6 Schedule](06-schedule/06-schedule.md)
+- [7 Cost](07-cost/07-cost.md)
+- [8 Quality](08-quality/08-quality.md)
+- [9 Resource](09-resource/09-resource.md)
+- [10 Communications](10-communications/10-communications.md)
+- [11 Risk](11-risk/11-risk.md)
+- [12 Procurement](12-procurement/12-procurement.md)
+- [13 Stakeholder](13-stakeholder/13-stakeholder.md)
 
 ## Initiating
 
