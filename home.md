@@ -8,6 +8,7 @@
 - [Executing](#executing)
 - [Monitoring and Controlling](#monitoring-and-controlling)
 - [Closing](#closing)
+- [References](#references)
 
 ## Chapters
 
@@ -85,3 +86,8 @@
 ## Closing
 
 - [4.7 Close Project or Phase](04-integration/4.7-close-project-or-phase.md)
+
+## References
+
+[1] A Guide to the Project Management Body of Knowledge
+(PMBOK Guide). 6th ed. Project Management Institute, Inc., 2017.
