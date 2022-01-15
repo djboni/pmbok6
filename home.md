@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Chapters](#chapters)
+- [Links](#links)
 - [Initiating](#initiating)
 - [Planning](#planning)
 - [Executing](#executing)
@@ -10,22 +10,13 @@
 - [Closing](#closing)
 - [References](#references)
 
-## Chapters
+## Links
 
-- [1-2 Business and Environment](01-business-and-environment/00-business-and-environment.md)
-- [4 Integration](04-integration/00-integration.md)
-- [5 Scope](05-scope/00-scope.md)
-- [6 Schedule](06-schedule/00-schedule.md)
-- [7 Cost](07-cost/00-cost.md)
-- [8 Quality](08-quality/00-quality.md)
-- [9 Resource](09-resource/00-resource.md)
-- [10 Communications](10-communications/00-communications.md)
-- [11 Risk](11-risk/00-risk.md)
-- [12 Procurement](12-procurement/00-procurement.md)
-- [13 Stakeholder](13-stakeholder/00-stakeholder.md)
+- [Hierarchy](links.md)
 
 ## Initiating
 
+- [1 Business documents](01-business/00-business.md)
 - [4.1 Develop Project Charter](04-integration/4.1-develop-project-charter.md)
 - [13.1 Identify Stakeholders](13-stakeholder/13.1-identify-stakeholders.md)
 
