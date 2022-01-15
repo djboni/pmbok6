@@ -12,16 +12,17 @@
 
 ## Chapters
 
-- [4 Integration](04-integration/04-integration.md)
-- [5 Scope](05-scope/05-scope.md)
-- [6 Schedule](06-schedule/06-schedule.md)
-- [7 Cost](07-cost/07-cost.md)
-- [8 Quality](08-quality/08-quality.md)
-- [9 Resource](09-resource/09-resource.md)
-- [10 Communications](10-communications/10-communications.md)
-- [11 Risk](11-risk/11-risk.md)
-- [12 Procurement](12-procurement/12-procurement.md)
-- [13 Stakeholder](13-stakeholder/13-stakeholder.md)
+- [1-2 Business and Environment](01-business-and-environment/00-business-and-environment.md)
+- [4 Integration](04-integration/00-integration.md)
+- [5 Scope](05-scope/00-scope.md)
+- [6 Schedule](06-schedule/00-schedule.md)
+- [7 Cost](07-cost/00-cost.md)
+- [8 Quality](08-quality/00-quality.md)
+- [9 Resource](09-resource/00-resource.md)
+- [10 Communications](10-communications/00-communications.md)
+- [11 Risk](11-risk/00-risk.md)
+- [12 Procurement](12-procurement/00-procurement.md)
+- [13 Stakeholder](13-stakeholder/00-stakeholder.md)
 
 ## Initiating
 
