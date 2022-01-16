@@ -11,6 +11,9 @@
 
 - Organizational culture and political climate
 - Organizational governance framework
+- Organizational structure, culture, management practices, and sustainability
+- Project management body of knowledge for vertical market and/or focus area
+- Infrastructure
 
 ## Stakeholders
 
