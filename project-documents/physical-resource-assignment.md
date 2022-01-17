@@ -1,0 +1,1 @@
+# Physical resource assignments

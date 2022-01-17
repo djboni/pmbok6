@@ -7,12 +7,13 @@ PMBOK Guide (6th ed).
 
 ## Using
 
-Just copy the file structure to the wiki (or to a normal project) and
+Just copy the file structure to a normal project (or to a wiki) and
 start using it.
 
-You start in the home page
-[home.md](https://github.com/djboni/pmbok6/blob/master/home.md),
-use the links to navigate through the processes and edit them.
+- Start in the home page:
+  [home.md](https://github.com/djboni/pmbok6/blob/master/home.md);
+- Use the links to navigate through the documents and processes; and
+- Edit the documents.
 
 A nice thing about wikis on GitHub and GitLab is that they are
 source-controlled using Git, so you can look at any past state of your
