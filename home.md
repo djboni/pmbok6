@@ -32,12 +32,12 @@
   - [Basis of estimates](project-documents/basis-of-estimates.md)
   - [Issue log](project-documents/issue-log.md)
   - [Lessons learned register](project-documents/lessons-learned-register.md)
-  - [Deliverables](deliverables-documentation/deliverables.md)
   - [Work performance](work-performance-documentation/work-performance.md)
 - Scope
   - [Requirements documentation](project-documents/requirements-documentation.md)
   - [Requirements traceability matrix](project-documents/requirements-traceability-matrix.md)
   - [Project scope statement](project-documents/project-scope-statement.md)
+  - [Deliverables](deliverables-documentation/deliverables.md)
 - Schedule
   - [Activity list](project-documents/activity-list.md)
   - [Activity attributes](project-documents/activity-attributes.md)
