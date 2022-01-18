@@ -1,6 +1,8 @@
 # Business case
 
-- Business goals and objectives
-- Issues
-- Opportunities
+- Business needs
+- Analysis of the situation
+- Objectives and reasons for project initiation
+- Recommendation
+- Evaluation criteria
 - Economic feasibility study
