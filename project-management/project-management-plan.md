@@ -54,6 +54,16 @@ and validated." [[1]](../home.md#references)
 "Establishes the criteria and the activities for developing, monitoring, and
 controlling the schedule." [[1]](../home.md#references)
 
+- Project schedule model development
+- Release and iteration length
+- Level of accuracy
+- Units of measure
+- Organizational procedures links
+- Project schedule model maintenance
+- Control thresholds
+- Rules of performance measurement
+- Reporting formats
+
 ## Cost management plan
 
 "Establishes how the costs will be planned, structured, and controlled."

@@ -32,11 +32,11 @@
   - [Basis of estimates](project-documents/basis-of-estimates.md)
   - [Issue log](project-documents/issue-log.md)
   - [Lessons learned register](project-documents/lessons-learned-register.md)
-  - [Work performance](work-performance-documentation/work-performance.md)
 - Scope
   - [Requirements documentation](project-documents/requirements-documentation.md)
   - [Requirements traceability matrix](project-documents/requirements-traceability-matrix.md)
   - [Project scope statement](project-documents/project-scope-statement.md)
+  - [Scope baseline](project-management/baselines.md#scope-baseline)
   - [Deliverables](deliverables-documentation/deliverables.md)
 - Schedule
   - [Activity list](project-documents/activity-list.md)
@@ -44,12 +44,15 @@
   - [Milestone list](project-documents/milestone-list.md)
   - [Project schedule network diagrams](project-documents/project-schedule-network-diagrams.md)
   - [Duration estimates](project-documents/duration-estimates.md)
+  - [Schedule baseline](project-management/baselines.md#schedule-baseline)
   - [Project schedule](project-documents/project-schedule.md)
   - [Schedule data](project-documents/schedule-data.md)
   - [Project calendars](project-documents/project-calendars.md)
   - [Schedule forecasts](project-documents/schedule-forecasts.md)
+  - [Work performance](work-performance-documentation/work-performance.md)
 - Cost
   - [Cost estimates](project-documents/cost-estimates.md)
+  - [Cost baseline](project-management/baselines.md#cost-baseline)
   - [Cost forecasts](project-documents/cost-forecasts.md)
 - Quality
   - [Quality metrics](project-documents/quality-metrics.md)
@@ -90,32 +93,35 @@
 - [4.1 Develop Project Charter](pmbok6-processes/04-integration/4.1-develop-project-charter.md)
 - [13.1 Identify Stakeholders](pmbok6-processes/13-stakeholder/13.1-identify-stakeholders.md)
 
-## Planning
+## Management planning
 
 - [4.2 Develop Project Management Plan](pmbok6-processes/04-integration/4.2-develop-project-management-plan.md)
 - [5.1 Plan Scope Management](pmbok6-processes/05-scope/5.1-plan-scope-management.md)
+- [6.1 Plan Schedule Management](pmbok6-processes/06-schedule/6.1-plan-schedule-management.md)
+- [7.1 Plan Cost Management](pmbok6-processes/07-cost/7.1-plan-cost-management.md)
+- [8.1 Plan Quality Management](pmbok6-processes/08-quality/8.1-plan-quality-management.md)
+- [9.1 Plan Resource Management](pmbok6-processes/09-resource/9.1-plan-resource-management.md)
+- [10.1 Plan Communications Management](pmbok6-processes/10-communications/10.1-plan-communications-management.md)
+- [11.1 Plan Risk Management](pmbok6-processes/11-risk/11.1-plan-risk-management.md)
+- [12.1 Plan Procurement Management](pmbok6-processes/12-procurement/12.1-plan-procurement-management.md)
+- [13.2 Plan Stakeholder Engagement](pmbok6-processes/13-stakeholder/13.2-plan-stakeholder-engagement.md)
+
+## Planning
+
 - [5.2 Collect Requirements](pmbok6-processes/05-scope/5.2-collect-requirements.md)
 - [5.3 Define Scope](pmbok6-processes/05-scope/5.3-define-scope.md)
 - [5.4 Create WBS](pmbok6-processes/05-scope/5.4-create-wbs.md)
-- [6.1 Plan Schedule Management](pmbok6-processes/06-schedule/6.1-plan-schedule-management.md)
 - [6.2 Define Activities](pmbok6-processes/06-schedule/6.2-define-activities.md)
 - [6.3 Sequence Activities](pmbok6-processes/06-schedule/6.3-sequence-activities.md)
 - [6.4 Estimate Activity Durations](pmbok6-processes/06-schedule/6.4-estimate-activity-durations.md)
 - [6.5 Develop Schedule](pmbok6-processes/06-schedule/6.5-develop-schedule.md)
-- [7.1 Plan Cost Management](pmbok6-processes/07-cost/7.1-plan-cost-management.md)
 - [7.2 Estimate Costs](pmbok6-processes/07-cost/7.2-estimate-costs.md)
 - [7.3 Determine Budget](pmbok6-processes/07-cost/7.3-determine-budget.md)
-- [8.1 Plan Quality Management](pmbok6-processes/08-quality/8.1-plan-quality-management.md)
-- [9.1 Plan Resource Management](pmbok6-processes/09-resource/9.1-plan-resource-management.md)
 - [9.2 Estimate Activity Resources](pmbok6-processes/09-resource/9.2-estimate-activity-resources.md)
-- [10.1 Plan Communications Management](pmbok6-processes/10-communications/10.1-plan-communications-management.md)
-- [11.1 Plan Risk Management](pmbok6-processes/11-risk/11.1-plan-risk-management.md)
 - [11.2 Identify Risks](pmbok6-processes/11-risk/11.2-identify-risks.md)
 - [11.3 Perform Qualitative Risk Analysis](pmbok6-processes/11-risk/11.3-perform-qualitative-risk-analysis.md)
 - [11.4 Perform Quantitative Risk Analysis](pmbok6-processes/11-risk/11.4-perform-quantitative-risk-analysis.md)
 - [11.5 Plan Risk Responses](pmbok6-processes/11-risk/11.5-plan-risk-responses.md)
-- [12.1 Plan Procurement Management](pmbok6-processes/12-procurement/12.1-plan-procurement-management.md)
-- [13.2 Plan Stakeholder Engagement](pmbok6-processes/13-stakeholder/13.2-plan-stakeholder-engagement.md)
 
 ## Executing
 
