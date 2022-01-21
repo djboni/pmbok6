@@ -69,6 +69,15 @@ controlling the schedule." [[1]](../home.md#references)
 "Establishes how the costs will be planned, structured, and controlled."
 [[1]](../home.md#references)
 
+- Units of measure
+- Level of precision
+- Level of accuracy
+- Organizational procedures links
+- Control thresholds
+- Rules of performance measurement
+- Reporting formats
+- Additional details
+
 ## Quality management plan
 
 "Establishes how an organization's quality policies, methodologies, and
@@ -121,9 +130,6 @@ project execution is compared to measure and manage performance."
 
 "Describes the series of phases that a project passes through from its
 initiation to its closure." [[1]](../home.md#references)
-
-- Predictive
-- Adaptive or Agile
 
 ## Development approach
 

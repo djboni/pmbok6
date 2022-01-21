@@ -48,13 +48,6 @@ graph TD;
 "The approved version of the schedule model that is used as a basis for
 comparison to the actual results." [[1]](../home.md#references)
 
-- Documentation of the basis of the estimate
-- Documentation of all assumptions made
-- Documentation of any known constraints
-- Indication of the range of possible estimates
-- Indication of the confidence level of the final estimate
-- Documentation of individual project risks influencing this estimate
-
 ```ascii
 Section 1 | Task A    |
                       | Task B      |
