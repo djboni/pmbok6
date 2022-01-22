@@ -83,6 +83,17 @@ controlling the schedule." [[1]](../home.md#references)
 "Establishes how an organization's quality policies, methodologies, and
 standards will be implemented in the project." [[1]](../home.md#references)
 
+- Quality standards that will be used by the project
+- Quality objectives of the project
+- Quality roles and responsibilities
+- Project deliverables and processes subject to quality review
+- Quality control and quality management activities planned for the project
+- Quality tools that will be used for the project
+- Major procedures relevant for the project
+  - Dealing with nonconformance
+  - Corrective actions procedures
+  - Continuous improvement procedures
+
 ## Resource management plan
 
 "Provides guidance on how project resources should be categorized, allocated,

@@ -27,6 +27,8 @@
   - [Project success measures](project-management/project-success-measures.md)
   - [Baselines](project-management/baselines.md)
   - [Change requests](project-management/change-requests.md)
+  - [Deliverables](deliverables-documentation/deliverables.md)
+  - [Work performance](work-performance-documentation/work-performance.md)
 - Integration
   - [Assumption log](project-documents/assumption-log.md)
   - [Basis of estimates](project-documents/basis-of-estimates.md)
@@ -37,7 +39,6 @@
   - [Requirements traceability matrix](project-documents/requirements-traceability-matrix.md)
   - [Project scope statement](project-documents/project-scope-statement.md)
   - [Scope baseline](project-management/baselines.md#scope-baseline)
-  - [Deliverables](deliverables-documentation/deliverables.md)
 - Schedule
   - [Activity list](project-documents/activity-list.md)
   - [Activity attributes](project-documents/activity-attributes.md)
@@ -49,7 +50,6 @@
   - [Schedule data](project-documents/schedule-data.md)
   - [Project calendars](project-documents/project-calendars.md)
   - [Schedule forecasts](project-documents/schedule-forecasts.md)
-  - [Work performance](work-performance-documentation/work-performance.md)
 - Cost
   - [Cost estimates](project-documents/cost-estimates.md)
   - [Cost baseline](project-management/baselines.md#cost-baseline)
