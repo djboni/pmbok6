@@ -45,6 +45,7 @@
   - [Milestone list](project-documents/milestone-list.md)
   - [Project schedule network diagrams](project-documents/project-schedule-network-diagrams.md)
   - [Duration estimates](project-documents/duration-estimates.md)
+  - [Basis of estimates](project-documents/basis-of-estimates.md#schedule-basis-of-estimates)
   - [Schedule baseline](project-management/baselines.md#schedule-baseline)
   - [Project schedule](project-documents/project-schedule.md)
   - [Schedule data](project-documents/schedule-data.md)
@@ -52,6 +53,7 @@
   - [Schedule forecasts](project-documents/schedule-forecasts.md)
 - Cost
   - [Cost estimates](project-documents/cost-estimates.md)
+  - [Basis of estimates](project-documents/basis-of-estimates.md#cost-basis-of-estimates)
   - [Cost baseline](project-management/baselines.md#cost-baseline)
   - [Cost forecasts](project-documents/cost-forecasts.md)
 - Quality
@@ -62,6 +64,7 @@
 - Resource
   - [Team charter](project-documents/team-charter.md)
   - [Resource requirements](project-documents/resource-requirements.md)
+  - [Basis of estimates](project-documents/basis-of-estimates.md#resource-basis-of-estimates)
   - [Resource breakdown structure](project-documents/resource-breakdown-structure.md)
   - [Physical resource assignments](project-documents/physical-resource-assignment.md)
   - [Project team assignments](project-documents/project-team-assignments.md)

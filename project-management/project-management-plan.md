@@ -99,6 +99,20 @@ standards will be implemented in the project." [[1]](../home.md#references)
 "Provides guidance on how project resources should be categorized, allocated,
 managed, and released." [[1]](../home.md#references)
 
+- Identification of resources
+- Acquiring resources
+- Roles and responsibilities:
+  - Role
+  - Authority
+  - Responsibility
+  - Competence
+- Project organization charts
+- Project team resource management
+- Training
+- Team development
+- Resource control
+- Recognition plan
+
 ## Communications management plan
 
 "Establishes how, when, and by whom information about the project will be

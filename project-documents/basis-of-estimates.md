@@ -19,3 +19,11 @@
 - Indication of the confidence level of the final estimate
 
 ## Resource basis of estimates
+
+- Method used to develop the estimate
+- Resources used to develop the estimate
+- Assumptions associated with the estimate
+- Known constraints
+- Range of estimates
+- Confidence level of the estimate
+- Documentation of identified risks influencing the estimate
