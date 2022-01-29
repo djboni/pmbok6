@@ -118,6 +118,23 @@ managed, and released." [[1]](../home.md#references)
 "Establishes how, when, and by whom information about the project will be
 administered and disseminated." [[1]](../home.md#references)
 
+- Stakeholder communication requirements
+- Information to be communicated
+- Escalation processes
+- Reason for the distribution of that information
+- Timeframe and frequency for the distribution of required information
+- Person responsible for communicating the information
+- Person responsible for authorizing release of confidential information
+- Person or groups who will receive the information
+- Methods or technologies used to convey the information
+- Resources allocated for communication activities
+- Method for updating and refining the communications management plan
+- Glossary of common terminology
+- Flow charts of the information flow in the project, workflows with possible
+  sequence of authorization, list of reports, meeting plans, etc
+- Constraints derived from specific legislation or regulation, technology,
+  organizational policies, etc
+
 ## Risk management plan
 
 "Establishes how the risk management activities will be structured and
