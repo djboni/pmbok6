@@ -140,6 +140,18 @@ administered and disseminated." [[1]](../home.md#references)
 "Establishes how the risk management activities will be structured and
 performed." [[1]](../home.md#references)
 
+- Risk strategy
+- Methodology
+- Roles and responsibilities
+- Funding
+- Timing
+- Risk categories
+- Stakeholder risk appetite
+- Definitions of risk probability and impacts
+- Probability and impact matrix
+- Reporting formats
+- Tracking
+
 ## Procurement management plan
 
 "Establishes how the project team will acquire goods and services from outside
