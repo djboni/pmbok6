@@ -157,6 +157,17 @@ performed." [[1]](../home.md#references)
 "Establishes how the project team will acquire goods and services from outside
 of the performing organization." [[1]](../home.md#references)
 
+- How procurement will be coordinated with other project aspects
+- Timetable of key procurement activities
+- Procurement metrics to be used to manage contracts
+- Stakeholder roles and responsibilities related to procurement
+- Constraints and assumptions that could affect planned procurements
+- The legal jurisdiction and the currency in which payments will be made
+- Determination of whether independent estimates will be used and whether they
+  are needed as evaluation criteria
+- Risk management issues
+- Prequalified sellers, if any, to be used
+
 ## Stakeholder engagement plan
 
 "Establishes how stakeholders will be engaged in project decisions and
