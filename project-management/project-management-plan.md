@@ -174,6 +174,15 @@ of the performing organization." [[1]](../home.md#references)
 execution, according to their needs, interests, and impact."
 [[1]](../home.md#references)
 
+- C - current
+- D - desired
+
+| Stakeholder   | Unaware | Resistant | Neutral | Supportive | Leading |
+| ------------- | ------- | --------- | ------- | ---------- | ------- |
+| Stakeholder 1 | C       |           |         | D          |         |
+| Stakeholder 2 |         |           | C       | D          |         |
+| Stakeholder 3 |         |           |         | DC         |         |
+
 ## Change management plan
 
 "Describes how the change requests throughout the project will be formally
